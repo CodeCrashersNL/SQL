@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**SQL**](https://codecrashers.nl/cursussen/sql) cursus van CodeCrashers.
+Deze repository correspondeert met de [**SQL**](https://codecrashers.nl/lesmateriaal/sql) cursus van CodeCrashers.
 
 ---
 
